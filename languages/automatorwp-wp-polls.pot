@@ -1,0 +1,56 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AutomatorWP - WP Polls\n"
+"Report-Msgid-Bugs-To: https://automatorwp.com/\n"
+"POT-Creation-Date: 2020-07-23 13:06+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://automatorwp.com/)\n"
+"Language-Team: GamiPress <contact@automatorwp.com>\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: automatorwp-wp-polls.php:125
+#, php-format
+msgid "AutomatorWP - WP Polls requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: includes/triggers/vote-poll.php:26
+msgid "User votes on a poll"
+msgstr ""
+
+#: includes/triggers/vote-poll.php:27
+msgid "User <strong>votes</strong> on a poll"
+msgstr ""
+
+#: includes/triggers/vote-poll.php:29
+#, php-format
+msgid "User votes on %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/vote-poll.php:31
+#, php-format
+msgid "User votes on %1$s"
+msgstr ""
+
+#: includes/triggers/vote-poll.php:38
+msgid "Poll:"
+msgstr ""
+
+#: includes/triggers/vote-poll.php:39
+msgid "any poll"
+msgstr ""
+
+#: includes/triggers/vote-poll.php:45
+msgid "Poll"
+msgstr ""
